@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "quick-safe-notes",
+    "slug": "quick-safe-notes",
+    "orientation": "portrait",
+    "icon": "./files/ic_launcher.png",
+    "version": "1.0.1",
+    "splash": {
+      "image": "./files/splashscreen_image.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0C1B31"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
